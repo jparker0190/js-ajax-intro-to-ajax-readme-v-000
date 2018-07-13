@@ -4,7 +4,7 @@ JavaScript XHR
 ## Objectives
 
 1. Explain how JavaScript fetches data from remote resources
-2. Explain how XHR helps us write dynamic programs
+2. Expla how XHR helps us write dynamic programs
 3. Practice initializing an XHR request
 4. Practice handling an XHR response
 
